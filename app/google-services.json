@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "516135326474",
+    "firebase_url": "https://fir-crud-27cf6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-crud-27cf6",
+    "storage_bucket": "fir-crud-27cf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516135326474:android:204f1ff2b48dd66358e0f3",
+        "android_client_info": {
+          "package_name": "com.example.crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9pBauCOvJHol-eBDhtr-rHL7tBEDCdB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
